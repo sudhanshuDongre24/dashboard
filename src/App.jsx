@@ -15,6 +15,7 @@ import {
   Kanban,
   Area,
   Bar,
+  Line,
   Pie,
   Financial,
   ColorPicker,
