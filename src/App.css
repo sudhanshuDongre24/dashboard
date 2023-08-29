@@ -53,3 +53,19 @@
 .e-input-group.e-control-wrapper.e-error:not(.e-float-icon-left) {
   border: none;
 }
+
+.e-tooltip-wrap {
+  border-radius: 4px;
+  opacity: 1;
+}
+
+.e-tooltip-wrap.e-popup {
+  background-color: #fff;
+  border: 2px solid #000;
+}
+
+.e-tooltip-wrap .e-tip-content {
+  color: red;
+  font-size: 12px;
+  line-height: 20px;
+}
